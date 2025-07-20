@@ -1,6 +1,5 @@
 <img width="250" align="right" src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif">
 
-
 <h3 align="center">
   Welcome to Higzo's profile! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -19,7 +18,6 @@
  </p>
 <p> &#128187 Ask me about my experience with Sql Server ,C# ,LINQ ,Entity Framework or any thing related to .NET Track.</p>
 
----
 
 ### Connect with Me :
 <a  href="https://www.linkedin.com/in/ashraf-higazy-5b6148352/" target="_blank"  ><img alt="Static Badge" src="https://img.shields.io/badge/Ashraf%20Higazy-white?logo=linkedin&logoColor=white&labelColor=blue&color=blue">
@@ -27,7 +25,6 @@
 
 <p>Phone Number : 01225360781 | 01094029794</p>
 
----
 
 ### 🛠 &nbsp;Tech Stack🛠 Tech Stack:
 ![Static Badge](https://img.shields.io/badge/Sql_Server-white?logo=microsoftsqlserver&logoColor=red&labelColor=black&color=black)
