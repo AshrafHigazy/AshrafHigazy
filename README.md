@@ -1,3 +1,4 @@
+<img width="250" align="right" src="[https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif](https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif)">
 
 <h3 align="center">
   Welcome to Higzo's profile! 
