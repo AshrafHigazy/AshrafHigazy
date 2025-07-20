@@ -24,7 +24,7 @@
 <a  href="https://www.linkedin.com/in/ashraf-higazy-5b6148352/" target="_blank"  ><img alt="Static Badge" src="https://img.shields.io/badge/Ashraf%20Higazy-white?logo=linkedin&logoColor=white&labelColor=blue&color=blue">
 </a>
 
-<p>Phone Number : 01225360781 | 01094029794</p>
+<!--<p>Phone Number : 01225360781 | 01094029794</p>-->
 
 
 ### 🛠 &nbsp;Tech Stack:
