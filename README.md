@@ -21,7 +21,7 @@
 
 ---
 
-## Connect with Me :
+### Connect with Me :
 <a  href="https://www.linkedin.com/in/ashraf-higazy-5b6148352/" target="_blank"  ><img alt="Static Badge" src="https://img.shields.io/badge/Ashraf%20Higazy-white?logo=linkedin&logoColor=white&labelColor=blue&color=blue">
 </a>
 
@@ -29,24 +29,25 @@
 
 ---
 
-## 🛠 Tech Stack:
-
-![SQL Server](https://img.shields.io/badge/Sql_Server-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-blueviolet?style=for-the-badge)
-![MVC](https://img.shields.io/badge/MVC-007ACC?style=for-the-badge)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+### 🛠 &nbsp;Tech Stack🛠 Tech Stack:
+![Static Badge](https://img.shields.io/badge/Sql_Server-white?logo=microsoftsqlserver&logoColor=red&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/C%23-white?logo=csharp&logoColor=purple&color=black)
+![Static Badge](https://img.shields.io/badge/LINQ-white?color=black)&nbsp;
+![Static Badge](https://img.shields.io/badge/MVC-white?color=black)
+![Static Badge](https://img.shields.io/badge/Entity%20Framework-white?color=black)
+![Static Badge](https://img.shields.io/badge/.NET-purple?logo=dotnet&logoColor=purple&color=black)
+![Static Badge](https://img.shields.io/badge/Dapper_ORM-8A2BE2%20?color=black)
+<br>
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+<br>
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Static Badge](https://img.shields.io/badge/visual_studio-white?logo=visualstudio&logoColor=purple&color=black)
+<br>
 <!--
 **AshrafHigazy/AshrafHigazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
