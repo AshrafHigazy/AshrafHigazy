@@ -26,7 +26,7 @@
 <p>Phone Number : 01225360781 | 01094029794</p>
 
 
-### 🛠 &nbsp;Tech Stack🛠 Tech Stack:
+### 🛠 &nbsp;Tech Stack:
 ![Static Badge](https://img.shields.io/badge/Sql_Server-white?logo=microsoftsqlserver&logoColor=red&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/C%23-white?logo=csharp&logoColor=purple&color=black)
 ![Static Badge](https://img.shields.io/badge/LINQ-white?color=black)&nbsp;
