@@ -9,7 +9,8 @@
 ---
 
 ## Connect with Me :
-[![Higzo](https://img.shields.io/badge/Higzo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/ashraf-higazy-5b6148352](https://www.linkedin.com/in/ashraf-higazy-5b6148352/))
+[![Higzo](https://img.shields.io/badge/Higzo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraf-higazy-5b6148352/)
+
 
 Phone Number : 01225360781 | 01094029794
 
