@@ -36,11 +36,9 @@
 ![Static Badge](https://img.shields.io/badge/MVC-white?color=black)
 ![Static Badge](https://img.shields.io/badge/Entity%20Framework-white?color=black)
 ![Static Badge](https://img.shields.io/badge/.NET-purple?logo=dotnet&logoColor=purple&color=black)
-![Static Badge](https://img.shields.io/badge/Dapper_ORM-8A2BE2%20?color=black)
 <br>
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 <br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
